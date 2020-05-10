@@ -6,7 +6,19 @@ layout: default
 ---
 
 <header>
-    <video autoplay muted loop>
-        <source src="./REEL2020.3.mp4" />
+    <video id="back-video" autoplay muted loop>
     </video>
 </header>
+
+<script>
+    window.addEventListener('load', function () {
+        const video = document.getElementById("back-video");
+        const src = document.createElement('source');
+        if (window.innerWidth > window.innerHeight) {
+            src.setAttribute('src', 'reel_desktop.mp4');
+        } else {
+            src.setAttribute('src', 'reel_mobile.mp4');
+        }
+        video.appendChild(src);
+    })
+</script>
