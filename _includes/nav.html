@@ -1,0 +1,24 @@
+{% if page.navtheme %}
+{% assign theme = page.navtheme %}
+{% else %}
+{% assign theme = "light" %}
+{% endif %}
+
+<nav class="navbar navbar-expand-md navbar-{{theme}}">
+    <a class="navbar-brand" href="#">Mia Greene</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+        aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+            {% for link in site.data.navigation.main %}
+            {% assign url = link.url | relative_url %}
+            <li class="nav-item {% if page.id == link.title %}active{% endif %}">
+                <a class="nav-link" href="{{url}}">{{link.title}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
