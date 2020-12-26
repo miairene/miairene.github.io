@@ -1,5 +1,6 @@
 ---
 title: Deathless
+card_pic: 'deathless 1.JPG'
 ---
 Series about vampires and class struggle.
 Sound Technician, Production Assistant, Extra, Editor 2019-current

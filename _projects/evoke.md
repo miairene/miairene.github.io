@@ -1,5 +1,6 @@
 ---
 title: Evoke
+card_pic: 'evoke 1.JPG'
 ---
 
 Short about an accidental demon summoning.

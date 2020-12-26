@@ -9,7 +9,9 @@ layout: default
         {% for project in site.projects %}
         <a href="/projects/{{ project.slug }}">
             <div class="card m-3" style="height: 18rem; width: 18rem">
-                <img class="card-img" src="assets/{{project.slug}}.png" alt="{{project.title}}" />
+                <img class="card-img" src="/assets/projects/{{project.card_pic}}" alt="{{project.title}}"
+                    style="height: 100%; width: 100%; object-fit: cover">
+
                 <div class="card-img-overlay">
                     <h5 class="card-title m-2">{{project.title}}</h5>
                 </div>
