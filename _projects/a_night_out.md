@@ -1,6 +1,6 @@
 ---
 title: A Night Out
-card_pic: 'a night out 1.PNG'
+card_pic: 'a night out 1.png'
 ---
 
 Horror short about a masked man and masculinity.
