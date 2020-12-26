@@ -7,14 +7,14 @@ layout: default
 <main class="container">
     <div class="card-columns">
         {% for project in site.projects %}
-        {% for project in site.projects %}
-        <div class="card m-3" style="height: 18rem; width: 18rem">
-            <img class="card-img" src="assets/{{project.title}}a.png" alt="{{project.title}}" />
-            <div class="card-img-overlay">
-                <h5 class="card-title m-2">{{project.title}}</h5>
+        <a href="/projects/{{ project.slug }}">
+            <div class="card m-3" style="height: 18rem; width: 18rem">
+                <img class="card-img" src="assets/{{project.slug}}.png" alt="{{project.title}}" />
+                <div class="card-img-overlay">
+                    <h5 class="card-title m-2">{{project.title}}</h5>
+                </div>
             </div>
-        </div>
-        {% endfor %}
+        </a>
         {% endfor %}
     </div>
 </main>
