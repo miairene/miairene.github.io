@@ -10,9 +10,11 @@ layout: default
     </video>
 </header>
 
+<img id="mute-button" class="ml-3 " src="/assets/mute.png" alt="mute" />
+
 <script>
+    const video = document.getElementById("back-video");
     window.addEventListener('load', function () {
-        const video = document.getElementById("back-video");
         const src = document.createElement('source');
         if (window.innerWidth > window.innerHeight) {
             src.setAttribute('src', 'reel_desktop.mp4');
@@ -20,5 +22,15 @@ layout: default
             src.setAttribute('src', 'reel_mobile.mp4');
         }
         video.appendChild(src);
-    })
+    });
+    const mute = document.getElementById("mute-button");
+    mute.onclick = function () {
+        if (mute.getAttribute('src') === '/assets/mute.png') {
+            mute.src = '/assets/unmute.png';
+            video.muted = false;
+        } else {
+            mute.src = '/assets/mute.png';
+            video.muted = true;
+        }
+    };
 </script>
