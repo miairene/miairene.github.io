@@ -1,6 +1,6 @@
 ---
 title: Hesitance
-card_pic: 'hesitance 1.PNG'
+card_pic: 'hesitance 1.png'
 ---
 Fashion short about the point of no return.
 Production Assistant, Editor 2018
