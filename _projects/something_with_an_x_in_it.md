@@ -1,5 +1,6 @@
 ---
 title: Something With an X in it
+card_pic: 'swaxii 1.JPG'
 ---
 
 Parody short about the cliches of low-budget student filmmaking.
