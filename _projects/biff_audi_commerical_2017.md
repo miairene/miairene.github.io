@@ -1,5 +1,6 @@
 ---
 title: Biff Audi Commerical 2017
+card_pic: 'biff2017 1.JPG'
 ---
 
 Short advertisement about a princess proving her worth.

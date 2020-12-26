@@ -1,5 +1,6 @@
 ---
 title: Outside
+card_pic: 'outside 1.JPG'
 ---
 
 Short about the end of the world.

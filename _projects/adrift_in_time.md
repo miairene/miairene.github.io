@@ -1,5 +1,6 @@
 ---
 title: Adrift in Time
+card_pic: 'adrift 1.JPG'
 ---
 
 Fantasy short about film history.

@@ -1,5 +1,6 @@
 ---
 title: Biff Audi Commerical 2018
+card_pic: 'biff 2018 1.JPG'
 ---
 
 Short advertisement about 1890s farmers discovering a car.

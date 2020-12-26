@@ -1,5 +1,6 @@
 ---
 title: The Waiting 
+card_pic: 'the waiting 1.JPG'
 ---
 
 Horror romance feature about a hotel.
