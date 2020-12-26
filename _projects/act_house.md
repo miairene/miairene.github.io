@@ -1,5 +1,6 @@
 ---
 title: ACT House
+card_pic: 'evoke 1.JPG'
 ---
 
 Editing short form social media videos 2019-2020
