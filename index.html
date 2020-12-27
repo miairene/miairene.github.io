@@ -25,9 +25,11 @@ layout: index
             </a>
         </div>
     </div>
+
 </div>
 
-<img id="mute-button" class="ml-1 " src="/assets/mute.png" alt="mute" />
+<div id="mute-button" style="font-family: Rubik; color: white; padding: 20px; cursor: default; user-select: none;">
+    UNMUTE</div>
 
 <script>
     const video = document.getElementById("back-video");
@@ -42,11 +44,11 @@ layout: index
     });
     const mute = document.getElementById("mute-button");
     mute.onclick = function () {
-        if (mute.getAttribute('src') === '/assets/mute.png') {
-            mute.src = '/assets/unmute.png';
+        if (mute.innerHTML === 'UNMUTE') {
+            mute.innerHTML = 'MUTE';
             video.muted = false;
         } else {
-            mute.src = '/assets/mute.png';
+            mute.innerHTML = 'UNMUTE';
             video.muted = true;
         }
     };
