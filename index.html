@@ -44,7 +44,7 @@ layout: index
     });
     const mute = document.getElementById("mute-button");
     mute.onclick = function () {
-        if (mute.innerHTML === 'UNMUTE') {
+        if (mute.innerHTML.trim() === 'UNMUTE') {
             mute.innerHTML = 'MUTE';
             video.muted = false;
         } else {
