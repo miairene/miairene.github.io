@@ -1,6 +1,7 @@
 ---
 title: Company
 card_pic: 'company 1.JPG'
+order: 180 
 ---
 
 Short about a human doll in a mysterious hospital.
