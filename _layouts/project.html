@@ -2,6 +2,80 @@
 layout: default
 ---
 
-<h1>{{page.title}}</h1>
+<style>
+    body {
+        background-color: black;
+        color: white;
+        animation-name: bg-fade;
+        animation-duration: 0.5s;
+    }
 
-{{content}}
+    @keyframes bg-fade {
+        from {
+            background-color: white;
+        }
+
+        to {
+            background-color: black;
+        }
+    }
+
+    .carousel {
+        max-width: 500px;
+        /* margin: 0 auto; */
+        padding-top: 30px;
+        padding-right: 20px;
+        display: inline-block;
+        vertical-align: top;
+
+    }
+
+    h1 {
+        /* font-family: Rubik; */
+        font-family: 'DM Serif Display';
+        /* margin-top: 30px; */
+        font-size: 80px;
+    }
+
+    .md-content {
+        font-family: Rubik;
+        display: inline-block;
+    }
+</style>
+
+<div>
+
+    <div class="outer-content">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                {% for image in page.images %}
+                <li data-target="#carouselExampleIndicators" data-slide-to="{{forloop.index0}}" class="active"></li>
+                {% endfor %}
+            </ol>
+            <div class="carousel-inner">
+                {% for image in page.images %}
+                {% if forloop.index0 == 0 %}
+                <div class="carousel-item active">
+                    {% else %}
+                    <div class="carousel-item">
+                        {%endif%}
+                        <img class="d-block w-100" src="../../assets/projects/cropped/{{image}}" alt="slide">
+                    </div>
+                    {% endfor %}
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+
+            <div class="md-content">
+                <h1>{{page.title}}</h1>
+                {{content}}
+            </div>
+        </div>
+    </div>
