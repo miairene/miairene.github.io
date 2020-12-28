@@ -14,6 +14,6 @@ Reel Music by Love Askling
 
 [![Email](../assets/email.png) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
 
-[![LinkedIn](../assets/linkedin.jpg) Mia Greene](https://www.linkedin.com/in/mia-greene-760091196/)
+[![LinkedIn](../assets/linkedin.jpg) Noah Greene](https://www.linkedin.com/in/mia-greene-760091196/)
 
 [![Instagram](../assets/instagram.png) @tem.ber.lin](https://instagram.com/tem.ber.lin?igshid=byqa48kh1rxv)
