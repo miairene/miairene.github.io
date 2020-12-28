@@ -15,6 +15,6 @@ Big Apple, Southern Arizona Independant FIlm Festival,
 Experimental Edge Film & Art Festival, Indie Short Fest, SPLICE Film Fest, 
 Siouxland Inspirational Short Film Festival, The Lift-Off Sessions Selection
 
-Screenwriter, Director, Editor 2020
+Screenwriter, Director, Editor 2018-2019.
 
 
