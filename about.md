@@ -12,7 +12,7 @@ foster creativity and compassion. Temberlin is their creative pseudonym.
 
 Reel Music by Love Askling
 
-[![Email](../assets/email.png) mia.irene4@gmail.com](mailto:mia.irene4@gmail.com)
+[![Email](../assets/email.png) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
 
 [![LinkedIn](../assets/linkedin.jpg) Mia Greene](https://www.linkedin.com/in/mia-greene-760091196/)
 
