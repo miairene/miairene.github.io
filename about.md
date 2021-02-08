@@ -5,9 +5,9 @@ id: About
 ---
 
 
-Noah Greene is a filmmaker specializing in video editing. Noah earned their bachelor of science
+Noah Greene is a filmmaker specializing in video editing. Noah will earn their bachelor of science
 in Digital Media Production and Pure Mathematics from Florida
-State University. They are passionate about crafting stories that 
+State University in April of 2021. They are passionate about crafting stories that 
 foster creativity and compassion. Temberlin is their creative pseudonym.
 
 Reel Music by Love Askling
