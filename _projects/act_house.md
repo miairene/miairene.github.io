@@ -9,7 +9,7 @@ order: 5
 watch_link: 'https://www.instagram.com/theacthouse/'
 ---
 
-Editing short form social media videos 2019-2021
+Editing short form social media videos
 
 Experience working with brand guidelines, After Effects.
 
