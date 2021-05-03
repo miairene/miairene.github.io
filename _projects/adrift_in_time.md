@@ -11,7 +11,7 @@ watch_link: 'https://youtu.be/vdn-9n6sjx4'
 
 Fantasy short about film history.
 
-Co-director, Co-editor 2017
+Co-director, Co-editor
 
 
 
