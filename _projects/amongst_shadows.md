@@ -11,4 +11,4 @@ watch_link: 'https://youtu.be/skTKnLduuAE'
 
 Mock trailer about a man coming out of a coma.
 
-Screenwriter, Camera, Editor 2017
+Screenwriter, Camera, Editor
