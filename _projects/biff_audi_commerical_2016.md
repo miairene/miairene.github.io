@@ -11,6 +11,6 @@ watch_link: 'https://vimeo.com/151492821'
 
 Short commercial about a modern retelling of Cinderella.
 
-Production Assistant 2016
+Production Assistant
 
 
