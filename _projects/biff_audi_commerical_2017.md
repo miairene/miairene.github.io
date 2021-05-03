@@ -11,4 +11,4 @@ watch_link: 'https://www.youtube.com/watch?v=thQPilPCb_Y'
 
 Short advertisement about a princess proving her worth.
 
-Editor 2017
+Editor
