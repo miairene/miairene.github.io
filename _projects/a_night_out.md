@@ -11,4 +11,4 @@ order: 130
 
 Horror short about a masked man and masculinity.
 
-Script Supervisor, Editor 2018
+Script Supervisor, Editor
