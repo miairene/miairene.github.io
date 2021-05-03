@@ -11,4 +11,4 @@ watch_link: 'https://www.youtube.com/watch?v=L_EMAK3r8Vw'
 
 Short advertisement about 1890s farmers discovering a car.
 
-Editor, Acting 2018
+Editor, Acting
