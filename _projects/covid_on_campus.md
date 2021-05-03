@@ -11,4 +11,4 @@ watch_link: 'https://youtu.be/Z7j1xfWvu4w'
 
 Hard news package on different universities' responses to COVID-19.
 
-Screenwriter, Director, Editor 2020
+Screenwriter, Director, Editor
