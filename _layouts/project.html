@@ -42,10 +42,65 @@ layout: default
         display: inline-block;
         width: 500px;
     }
+
+    .pager {
+        font-size: 14px;
+        display: block;
+        width: auto;
+        overflow: hidden;
+    }
+
+    .pager a {
+        display: block;
+        width: 50%;
+        float: left;
+        margin: 1em 0;
+        font-family: 'Rubik';
+        color: white;
+        font-size: 40px;
+    }
+
+    .pager a:hover span {
+        display: none;
+    }
+
+    .pager .previous:hover:before {
+        content: '\25c0';
+    }
+
+    .pager .next:hover:before {
+        content: '\25b6';
+    }
+
+
+    .pager a,
+    .pager a:active,
+    .pager a:hover,
+    .pager a:visited,
+    .pager a:link,
+    .parger a:focus {
+        text-decoration: none;
+    }
+
+    .pager .next {
+        text-align: right;
+    }
 </style>
 
 <div>
 
+    <div class="pager">
+        <a class="previous" href="{{page.previous.url}}">
+            {% if page.previous.url %}
+            <span>&#9665</span>
+            {% endif %}
+        </a>
+        <a class="next" href="{{page.next.url}}">
+            {% if page.next.url %}
+            <span>&#9655</span>
+            {% endif %}
+        </a>
+    </div>
     <div class="outer-content">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -64,14 +119,6 @@ layout: default
                     </div>
                     {% endfor %}
                 </div>
-                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
             </div>
 
             <div class="md-content">
