@@ -6,8 +6,7 @@ layout: default
 
 <main>
     <div class="card-deck">
-        {% assign project_in_order = site.projects | sort:"order" %}
-        {% for project in project_in_order %}
+        {% for project in site.projects %}
         <a href="/projects/{{ project.slug }}">
             <div class="card m-3" style="height: 18rem; width: 18rem">
                 <img class="card-img" src="/assets/projects/cropped/{{project.card_pic}}" alt="{{project.title}}"
