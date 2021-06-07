@@ -9,7 +9,5 @@ order: 5
 watch_link: 'https://www.instagram.com/theacthouse/'
 ---
 
-Editing short form social media videos
-
-Experience working with brand guidelines, After Effects.
+Short form social media videos.
 
