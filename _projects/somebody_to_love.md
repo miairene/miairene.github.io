@@ -9,5 +9,3 @@ images:
 watch_link: 'https://www.facebook.com/S2Lfilm/'
 ---
 A musical feature about two queer couples.
-
-Crew Chief, Digital Imaging Technician, Head Editor 2019-2021
