@@ -11,6 +11,4 @@ watch_link: 'https://youtu.be/UF8e2IAcDsY'
 
 Short documentary on growing up in an unusual house.
 
-Screenwriter, Director, Editor 2020
-
 
