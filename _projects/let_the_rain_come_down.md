@@ -11,5 +11,3 @@ watch_link: 'https://youtu.be/VIpi5DX-bz0'
 
 Lyric/Music visualizer for Tawnted's "Let the Rain Come Down."
 
-Director, Animator 2020
-
