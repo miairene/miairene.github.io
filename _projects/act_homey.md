@@ -1,5 +1,5 @@
 ---
-title: ACT: Homey
+title: ACT Homey
 card_pic: 'act-homey1.JPG'
 images:
     - 'act-homey2.JPG'
