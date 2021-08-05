@@ -10,5 +10,3 @@ watch_link: 'https://youtu.be/BK7AdMFME50'
 ---
 
 Lyric video for Kayla Nicole's "The Crown."
-
-Editor
