@@ -9,5 +9,3 @@ watch_link: 'https://youtu.be/BK7AdMFME50'
 ---
 
 Credits sequence for documentary "Gnarly in Pink."
-
-Editor
