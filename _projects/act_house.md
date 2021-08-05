@@ -1,5 +1,5 @@
 ---
-title: ACT: Techstars
+title: ACT Techstars
 card_pic: 'act1.png'
 images: 
     - 'act2.png'
