@@ -1,5 +1,5 @@
 ---
-title: ACT House
+title: ACT: Techstars
 card_pic: 'act1.png'
 images: 
     - 'act2.png'
@@ -9,5 +9,5 @@ order: 5
 watch_link: 'https://www.instagram.com/theacthouse/'
 ---
 
-Short form social media videos.
+Short form social media video on ACT House's partnership with Techstars.
 
