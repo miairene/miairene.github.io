@@ -10,5 +10,3 @@ watch_link: 'https://youtu.be/BK7AdMFME50'
 ---
 
 Animations and titles for educational entrprenuership video.
-
-Editor
