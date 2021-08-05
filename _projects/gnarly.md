@@ -1,3 +1,4 @@
+---
 title: Gnarly in Pink
 card_pic: 'gnarlycredits1.JPG'
 images:
