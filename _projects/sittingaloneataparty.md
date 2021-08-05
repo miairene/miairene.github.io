@@ -1,10 +1,10 @@
 ---
 title: sitting alone at a party
-card_pic: 'sittingaloneataparty1.JPG'
+card_pic: 'sittingaloneataparty 1.JPG'
 images:
-    - 'sittingaloneataparty2.JPG'
-    - 'sittingaloneataparty1.JPG'
-    - 'sittingaloneataparty3.JPG'
+    - 'sittingaloneataparty 2.JPG'
+    - 'sittingaloneataparty 1.JPG'
+    - 'sittingaloneataparty 3.JPG'
 order: 666
 watch_link: 'https://youtu.be/BK7AdMFME50'
 ---
