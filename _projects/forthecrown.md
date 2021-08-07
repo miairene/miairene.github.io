@@ -1,10 +1,10 @@
 ---
 title: The Crown
-card_pic: 'thecrown1.JPG'
+card_pic: 'serenity 1.JPG'
 images:
-    - 'thecrown2.JPG'
-    - 'thecrown1.JPG'
-    - 'thecrown3.JPG'
+    - 'serenity 2.JPG'
+    - 'serenity 1.JPG'
+    - 'serenity 3.JPG'
 order: 333
 watch_link: 'https://youtu.be/CYlGDdOT2Xo'
 ---
