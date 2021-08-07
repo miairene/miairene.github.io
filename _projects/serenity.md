@@ -6,7 +6,7 @@ images:
     - 'serenity 1.JPG'
     - 'serenity 3.JPG'
 order: 678
-watch_link: 'https://youtu.be/UF8e2IAcDsY'
+watch_link: 'https://youtu.be/lqoEBuNjPEw'
 ---
 
 Lyric video for Jacklene's "Serenity."
