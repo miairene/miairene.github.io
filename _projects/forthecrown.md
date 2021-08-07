@@ -6,7 +6,7 @@ images:
     - 'thecrown1.JPG'
     - 'thecrown3.JPG'
 order: 333
-watch_link: 'https://youtu.be/BK7AdMFME50'
+watch_link: 'https://youtu.be/CYlGDdOT2Xo'
 ---
 
 Lyric video for Kayla Nicole's "The Crown."
