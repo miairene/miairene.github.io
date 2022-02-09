@@ -38,6 +38,7 @@ layout: index
     const video = document.getElementById("back-video");
     window.addEventListener('load', function () {
         const src = document.createElement('source');
+        // change 'dl=0' at end of link to 'raw=1'
         if (window.innerWidth > window.innerHeight) {
             src.setAttribute('src', 'https://www.dropbox.com/s/xvxj8186m1qzxgk/reel_desktop.mp4?raw=1');
         } else {
