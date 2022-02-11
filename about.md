@@ -10,7 +10,7 @@ in Digital Media Production and Pure Mathematics from Florida
 State University in 2021. They are passionate about crafting stories that 
 foster creativity and compassion.
 
-Reel Music by sachji & lofty
+Reel Music by Holizna
 
 [![Email](../assets/email.png) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
 
