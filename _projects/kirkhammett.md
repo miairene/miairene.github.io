@@ -1,10 +1,10 @@
 ---
 title: High Plains Drifter
-card_pic: 'hpd1.JPG'
+card_pic: 'hpd1.jpg'
 images:
-    - 'hpd2.JPG'
-    - 'hpd3.JPG'
-    - 'hpd1.JPG'
+    - 'hpd2.jpg'
+    - 'hpd3.jpg'
+    - 'hpd1.jpg'
 order: 20
 watch_link: 'https://youtu.be/zwOqs88cHWo'
 ---
