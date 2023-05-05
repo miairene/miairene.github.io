@@ -5,10 +5,9 @@ id: About
 ---
 
 
-Noah Greene is a filmmaker specializing in video editing. Noah earned their Bachelor of Science
+Noah Greene is a video editor and motion designer in Los Angeles, CA. Noah earned their Bachelor of Science
 in Digital Media Production and Pure Mathematics from Florida
-State University in 2021. They are passionate about crafting stories that 
-foster creativity and compassion.
+State University in 2021. 
 
 
 [![Email](../assets/email.png) ttemberlin@gmail.com](mailto:ttemberlin@gmail.com)
