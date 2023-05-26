@@ -11,6 +11,12 @@ header {
     height: 100%; 
     overflow: hidden;
     z-index: -1;
+    background-color: black;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 header video {
@@ -23,8 +29,13 @@ header video {
     position: absolute;
     top: 0%;
     left: 0%;
-    background-color: black;
-    /* top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%); */
+
+    /* start out transparent, animation will be added later */
+    opacity: 0%;
+
+}
+
+.fade-in { 
+    animation: fadeIn 4s;
+    opacity: 100%;
 }
