@@ -1,6 +1,5 @@
-
 ---
-title: Queenmaker: The Making of an It Girl
+title: "Queenmaker: The Making of an It Girl"
 card_pic: 'queenmaker1.png'
 images:
     - 'queenmaker2.png'
