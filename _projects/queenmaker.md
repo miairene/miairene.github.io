@@ -1,11 +1,11 @@
 
 ---
 title: Queenmaker: The Making of an It Girl
-card_pic: '5317 3.JPG'
+card_pic: 'queenmaker1.png'
 images:
-    - '5317 2.JPG'
-    - '5317 3.JPG'
-    - '5317 1.JPG'
+    - 'queenmaker2.png'
+    - 'queenmaker3.png'
+    - 'queenmaker1.png'
 order: 20
 watch_link: 'https://press.hulu.com/shows/queenmaker-the-making-of-an-it-girl/'
 ---
