@@ -9,6 +9,6 @@ order: 20
 watch_link: 'https://festival.sundance.org/program/film/638a1fd7d406b26507f2e33e'
 ---
 
-Official SUndance selection HBO documentary about trans sex workers in the Meatpacking Disctrict, Manhattan.
+Official Sundance selection HBO documentary about trans sex workers in the Meatpacking Disctrict, Manhattan.
 
 Motion Design & Photo Editing 2022-2023
