@@ -8,6 +8,6 @@ images:
     - 'delsener1.png'
 watch_link: 'https://www.facebook.com/S2Lfilm/'
 ---
-Official Tribeca Selection documentary about New York music promoter Ron Delsener.
+Official Tribeca selection documentary about New York music promoter Ron Delsener.
 
 Motion Designer 2023
