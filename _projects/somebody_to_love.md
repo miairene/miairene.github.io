@@ -8,6 +8,6 @@ images:
     - 's2l 3.png'
 watch_link: 'https://www.facebook.com/S2Lfilm/'
 ---
-A musical feature about two queer couples.
+A dramatic feature film about two queer couples.
 
 Editor 2020-2021
