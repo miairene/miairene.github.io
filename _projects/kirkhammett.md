@@ -11,4 +11,4 @@ watch_link: 'https://youtu.be/zwOqs88cHWo'
 
 Official Music Video for Kirk Hammett of Metallica's "High Plains Drifter."
 
-Animator
+Animator 2022
