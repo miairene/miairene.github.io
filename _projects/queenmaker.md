@@ -9,6 +9,6 @@ order: 20
 watch_link: 'https://press.hulu.com/shows/queenmaker-the-making-of-an-it-girl/'
 ---
 
-Hulu documentary on early 2000s socialite bloggers.
+Hulu documentary on early 2000s socialites and the people who ran blogs about them.
 
 Animator 2022-2023
