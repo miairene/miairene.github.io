@@ -1,10 +1,10 @@
 ---
 title: Stamped from the Beginning
-card_pic: 'stamped 1.jpg'
+card_pic: 'stamped_1.jpg'
 images:
-    - 'stamped 2.jpg'
-    - 'stamped 1.jpg'
-    - 'stamped 3.jpg'
+    - 'stamped_2.jpg'
+    - 'stamped_1.jpg'
+    - 'stamped_3.jpg'
 order: 666
 watch_link: 'https://www.imdb.com/title/tt13871094/'
 ---
