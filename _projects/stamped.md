@@ -9,6 +9,6 @@ order: 666
 watch_link: 'https://www.imdb.com/title/tt13871094/'
 ---
 
-Netflix documentary on racism, Official TIFF Selection.
+Official TIFF Selection Netflix documentary about racism.
 
 Animator 2023
