@@ -9,7 +9,7 @@ order: 20
 watch_link: 'https://boneyard.camp/'
 ---
 
-Online music festival for charity.
+Multimedia virtual festival livestreamed annually.
 
 Animator 2023<br>
 Manager & Animator 2024
