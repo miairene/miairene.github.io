@@ -1,0 +1,82 @@
+---
+title: Reel
+id: Reel
+layout: default
+---
+
+<script>
+    function seekTo(secs) {
+        const reel = document.getElementById("reel");
+        reel.fastSeek(secs);
+    }
+</script>
+
+<style>
+    .credits {
+        text-align: center;
+        margin-top: 2em;
+    }
+
+    .credits-holder {
+        display: flex;
+        justify-content: center;
+    }
+
+    .credits-holder td {
+        width: 8em;
+        padding: 0.2em 1em 0.2em 1em;
+    }
+
+    .credits-holder tr :nth-child(odd) {
+        text-align: left;
+    }
+
+    .credits-holder tr :nth-child(even) {
+        text-align: right;
+    }
+
+    h1 {
+        font-size: 1.2em;
+    }
+</style>
+
+<video id="reel" controls autoplay muted loop width="100%"
+    src="https://www.dropbox.com/scl/fi/tjsm4wc2ponx97kejqjxy/2023_2.mp4?rlkey=szlmjdzj4kujclhmu3epwyl6o&st=onrp30wg&dl=0&raw=1">
+</video>
+
+<div class="credits">
+    <h1>CREDITS</h1>
+
+    <table class="credits-holder">
+        <tr>
+            <td>
+                <a href="#" onclick="seekTo(15)">
+                    0:15
+                </a>
+            </td>
+            <td>Info</td>
+            <td>
+                <a href="#" onclick="seekTo(15)">
+                    0:15
+                </a>
+            </td>
+            <td>Info</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#" onclick="seekTo(15)">
+                    0:15
+                </a>
+            </td>
+            <td>
+                Info
+            </td>
+            <td>
+                <a href="#" onclick="seekTo(15)">
+                    0:15
+                </a>
+            </td>
+            <td>Info</td>
+        </tr>
+    </table>
+</div>
