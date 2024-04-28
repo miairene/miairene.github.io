@@ -9,8 +9,8 @@ order: 666
 watch_link: 'https://www.netflix.com/title/81321341'
 ---
 
-Official TIFF Selection
-Streaming on Netflix
+Official TIFF Selection<br>
+Streaming on Netflix<br>
 Documentary about about three anti-racist women across time.
 
 Animator 2023
