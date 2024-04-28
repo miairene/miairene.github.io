@@ -36,6 +36,6 @@ header video {
 }
 
 .fade-in { 
-    animation: fadeIn 4s;
+    animation: fadeIn 2s;
     opacity: 100%;
 }
