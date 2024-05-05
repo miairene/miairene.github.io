@@ -1,6 +1,6 @@
 main:
-  # - title: Reel
-  #   url: /reel
+   - title: Reel
+     url: /reel
   - title: "Projects"
     url: /projects
   - title: "About"
