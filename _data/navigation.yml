@@ -1,5 +1,5 @@
 main:
-   - title: Reel
+   - title: "Reel"
      url: /reel
   - title: "Projects"
     url: /projects
