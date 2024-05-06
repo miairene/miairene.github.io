@@ -22,17 +22,26 @@ layout: default
         justify-content: center;
     }
 
-    .credits-holder td {
-        width: 8em;
+    .credits-holder td, .credits-holder th {
+        width: 20em;
         padding: 0.2em 1em 0.2em 1em;
     }
 
-    .credits-holder tr :nth-child(odd) {
+    .credits-holder tr :nth-child(1) {
         text-align: left;
+        width: 10%;
     }
 
-    .credits-holder tr :nth-child(even) {
-        text-align: right;
+    .credits-holder tr :nth-child(2) {
+        width: 50%;
+    }
+
+    .credits-holder tr :nth-child(3) {
+        width: 40%;
+    }
+
+    .credits-holder {
+        text-align: left;
     }
 
     h1 {
@@ -45,22 +54,33 @@ layout: default
 </video>
 
 <div class="credits">
+    <div style="text-align: left">
+        <i>reel music by <a href="https://linktr.ee/Maymung">Maymung</a></i>
+    </div>
+
     <h1>CREDITS</h1>
 
     <table class="credits-holder">
-        <tr>
+        <th>Time</th>
+        <th>Project</th>
+        <th>What I Did</th>
+        <!-- <tr>
             <td>
                 <a href="#" onclick="seekTo(0)">
                     0:00
                 </a>
             </td>
             <td>reel music by Maymung</td>
+            <td></td>
+        </tr> -->
+        <tr>
             <td>
                 <a href="#" onclick="seekTo(1)">
                     0:01
                 </a>
             </td>
-            <td>RISK!, animation & design</td>
+            <td>RISK!</td>
+            <td>animation & design</td>
         </tr>
         <tr>
             <td>
@@ -68,15 +88,17 @@ layout: default
                     0:06
                 </a>
             </td>
-            <td>
-                Freebird, animation & design
-            </td>
+            <td>Freebird</td>
+            <td>animation & design</td>
+        </tr>
+        <tr>
             <td>
                 <a href="#" onclick="seekTo(7)">
                     0:07
                 </a>
             </td>
-            <td>Ron Delsener Presents, animation & design; studio: Awesome + Modest</td>
+            <td>Ron Delsener Presents; studio: Awesome + Modest</td>
+            <td>animation & design</td>
         </tr>
     </table>
 </div>
