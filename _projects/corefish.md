@@ -1,9 +1,9 @@
 ---
 title: Corefish
-card_pic: 'corefish1.jpg'
+card_pic: 'corefish_1.jpg'
 images:
     - 'kite2.png'
-    - 'corefish1.jpg'
+    - 'corefish_1.jpg'
     - 'kite3.png'
 order: 666
 watch_link: 'https://www.instagram.com/reel/CxWPihfyjLo/?utm_source=ig_web_copy_link'
