@@ -13,4 +13,6 @@ Official TIFF Selection<br>
 Streaming on Netflix<br>
 Documentary about about three revolutionary Black women across time.
 
+"[The animations] bring historical episodes to life with infinitely more swag than the usual staid dramatic re-enactments." - 
+
 Animator 2023
