@@ -2,7 +2,7 @@
 title: Corefish
 card_pic: 'corefish_1.jpg'
 images:
-    - 'kite2.png'
+    - 'kite1.png'
     - 'corefish_1.jpg'
     - 'kite3.png'
 order: 666
