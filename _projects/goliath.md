@@ -1,10 +1,10 @@
 ---
 title: Goliath
-card_pic: 'goliath_1.jpg'
+card_pic: 'goliath_01.jpg'
 images:
-    - 'goliath_2.jpg'
-    - 'goliath_1.jpg'
-    - 'goliath_3.jpg'
+    - 'goliath_02.jpg'
+    - 'goliath_01.jpg'
+    - 'goliath_03.jpg'
 order: 666
 watch_link: 'https://www.youtube.com/watch?v=28nhcCG8lIQ'
 ---
