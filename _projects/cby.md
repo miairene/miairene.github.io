@@ -11,6 +11,12 @@ watch_link: 'https://boneyard.camp/'
 
 Multimedia virtual festival livestreamed annually.
 
+Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=ZjFIZyJYji4">'leastfavorite!'</a> 2025
+
+Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=1O8PQuiFdrs">'rouri404 b2b 31sentinel b2b evan sasha'</a> 2025
+
+Hi-Scores Visuals <a href="https://youtu.be/ZjFIZyJYji4&t=139">'Estelle Allen'</a> 2025
+
 Visuals <a href="https://youtu.be/26SauPKvqUI&t=22">'2manycolours'</a> 2024
 
 Visuals <a href="https://youtu.be/26SauPKvqUI&t=687">'Freya Langley'</a> 2024
@@ -33,4 +39,5 @@ Assist Visuals <a href="https://youtu.be/qjB6DVqK4bw&t=5533">'Dashie'</a> 2023
 
 
 Animator 2023<br>
-Manager & Animator 2024
+Manager & Animator 2024<br>
+Manager & Animator 2025
