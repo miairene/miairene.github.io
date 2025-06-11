@@ -11,7 +11,7 @@ watch_link: 'https://boneyard.camp/'
 
 Multimedia virtual festival livestreamed annually.
 
-Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=ZjFIZyJYji4">'leastfavorite!'</a> 2025
+Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=_VdNkETf3CI">'leastfavorite!'</a> 2025
 
 Hi-Scores Visuals <a href="https://www.youtube.com/watch?v=1O8PQuiFdrs">'rouri404 b2b 31sentinel b2b evan sasha'</a> 2025
 
