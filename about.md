@@ -5,7 +5,7 @@ id: About
 ---
 
 
-Noah Greene is a video editor and motion designer in Los Angeles, CA. Noah earned their Bachelor of Science
+Noah Greene (aka temberlin) is a video editor and motion designer in Los Angeles, CA. Noah earned their Bachelor of Science
 in Digital Media Production and Pure Mathematics from Florida
 State University in 2021. 
 
